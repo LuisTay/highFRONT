@@ -6,7 +6,7 @@
 	<title>Dashboard</title>
 </head>
 <body>
-<span>luisproteamvn@outlook.com</span>
-<span>live:.cid.efcaf344e756c808</span>
+<h2>Admin Panel</h2>
+<span>id: efcaf344e756c808</span>
 </body>
 </html>
