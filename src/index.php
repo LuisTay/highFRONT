@@ -8,5 +8,6 @@
 <body>
 <h2>Admin Panel</h2>
 <span>id: efcaf344e756c808</span>
+<span>alternative: 17574ac99a61f446</span>
 </body>
 </html>
