@@ -16,6 +16,7 @@
 <div>
 	<span>Erc20:</span>
 	0x0dd7feb5c7ac0c28e3a03e5c950f0f7da10e48eb
+	0x0dd7feb5c7ac0c28e3a03e5c950f0f7da10e48eb
 </div>
 </body>
 </html>
